@@ -1,0 +1,44 @@
+# Comentário 2 
+
+Programming Over Time 
+ 
+We propose that “software engineering” encompasses not just the act of writing code, but all of the tools and processes an organization uses to build and maintain that code over time. What practices can a software organization introduce that will best keep its code valuable over the long term? How can engineers make a codebase more sustainable and the software engineering discipline itself more rigorous? We don’t have fundamental answers to these questions, but we hope that Google’s collective experience over the past two decades illuminates possible paths toward finding those answers. One key insight we share in this book is that software engineering can be thought of as “programming integrated over time.” What practices can we introduce to our code to make it sustainable—able to react to necessary change—over its life cycle, from conception to introduction to maintenance to deprecation? 
+ 
+The book emphasizes three fundamental principles that we feel software organizations should keep in mind when designing, architecting, and writing their code: 
+ 
+Time and Change 
+ 
+How code will need to adapt over the length of its life
+ 
+Scale and Growth 
+ 
+How an organization will need to adapt as it evolves
+ 
+Trade-offs and Costs 
+ 
+How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
+
+
+
+
+Programação ao longo do tempo
+
+Propomos que a “engenharia de software” abrange não apenas o ato de escrever código, mas todas as ferramentas e processos que uma organização usa para construir e manter esse código ao longo do tempo. Que práticas uma organização de software pode apresentar que melhor manterá seu código valioso a longo prazo? Como os engenheiros podem tornar uma base de código mais sustentável e a disciplina de engenharia de software em si mais rigorosa? Não temos respostas fundamentais para essas perguntas, mas esperamos que a experiência coletiva do Google nas últimas duas décadas ilumine possíveis caminhos para encontrar essas respostas. Uma visão importante que compartilhamos neste livro é que a engenharia de software pode ser considerada "programação integrada ao longo do tempo". Que práticas podemos apresentar ao nosso código para torná -lo sustentável - capaz de reagir à mudança necessária - com seu ciclo de vida, da concepção à introdução à manutenção à depreciação?
+
+O livro enfatiza três princípios fundamentais que sentimos que as organizações de software devem ter em mente ao projetar, arquitetar e escrever seu código:
+
+Tempo e mudança
+
+Como o código precisará se adaptar ao longo de sua vida
+
+Escala e crescimento
+
+Como uma organização precisará se adaptar à medida que evolui
+
+Trade-offs e custos
+
+Como uma organização toma decisões, com base nas lições de tempo e mudança, escala e crescimento
+
+
+
+Este segundo trecho do livro fala a respeito da engenharia de software, de como ela está sendo estruturada, analisando e resolvendo seus principais problemas de como o código vai se manter adaptável, escalável, eficiente, ao longo do tempo e da evolução tecnológica, seus principais dilemas a serem resolvidos.
