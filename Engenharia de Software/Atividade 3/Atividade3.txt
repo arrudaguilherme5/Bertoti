@@ -1,0 +1,15 @@
+# 3. Listar e explicar 3 exemplos de tradeoffs
+
+Em engenharia de software, um tradeoff é uma escolha estratégica em que você precisa abrir mão de um benefício para obter outro. É como uma balança: ao melhorar um aspecto do seu sistema (como o desempenho), você inevitavelmente piora outro (como o custo de desenvolvimento ou a complexidade).
+
+Engenharia de Software é a disciplina que aplica princípios de engenharia no desenvolvimento de software. Em vez de simplesmente "codar", ela trata o processo de criação de programas de forma organizada, sistemática e controlada.
+
+
+Desempenho vs. Custo de Desenvolvimento 
+Quanto maior o desenpenho do software maior o seu custo, pode-se achar o equilibrio de ter menos desenpenho e ser mais rentável faze-lo, deixando o negócio mais vantajoso para o cliente. 
+
+Funcionalidade vs. Complexidade
+Quanto mais funcionalidades maior a complexidade do software. Mais funcionalidade pode ser atraente aos usuários porém deixa o software inchado, díficil de usa-lo e manter sua manutenção.
+
+Segurança vs. Usabilidade
+Quanto mais segurança, pior fica a usabilidade do usuário, pois mais etapas de verificação, senhas mais complexas, mais regras para acesso ao software podem incomodar o usuário e prejudicar a experiência de uso. 
